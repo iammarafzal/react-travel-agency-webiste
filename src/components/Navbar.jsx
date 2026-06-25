@@ -10,7 +10,7 @@ function Navbar() {
       <div className="container px-4 flex justify-between items-center h-16">
         <h3 className="text-2xl font-bold">Travel</h3>
         <div className="hidden space-x-4 text-sm font-bold items-center md:flex">
-          <Link to="/" className="px-6 py-2 hover:bg-gray-600 hover:text-white">Home</Link>
+          <Link to="/" className="px-6 py-2 hover:border-b-2">Home</Link>
           <Link to="/gallery" className="px-6 py-2 hover:bg-gray-600 hover:text-white">Gallery</Link>
           <Link to="/contact" className="px-6 py-2 hover:bg-gray-600 hover:text-white">Contact</Link>
           <Link to="/about" className="px-6 py-2 hover:bg-gray-600 hover:text-white">About</Link>
