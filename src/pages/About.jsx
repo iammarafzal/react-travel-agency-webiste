@@ -21,7 +21,7 @@ function About() {
     <main className="bg-slate-50 min-h-screen pb-24 pt-20">
       {/* Hero Header */}
       <Hero
-        backgroundImage="/Images/hero.png"
+        backgroundImage="/Images/hero.webp"
         title="Our Story"
         subtitle="We make travel planning simple, personal, and memorable."
         height="h-[45vh]"
@@ -43,7 +43,7 @@ function About() {
             <p className="text-slate-600 text-sm leading-relaxed">
               Our travel experts design handpicked itineraries, manage logistics, and secure boutique stays so you can focus entirely on the adventure. From luxury cruises in Santorini to cultural walks in Kyoto, we build trips around your style, budget, and schedule.
             </p>
-            
+
             {/* Stats Row */}
             <div className="grid gap-4 grid-cols-3 pt-6">
               {stats.map((stat) => (
@@ -58,7 +58,7 @@ function About() {
           {/* Visual Showcase */}
           <div className="overflow-hidden rounded-3xl shadow-xl border-4 border-white aspect-[4/3] relative">
             <img
-              src="/Images/hero.png"
+              src="/Images/hero.webp"
               alt="Tropical travel destination"
               className="h-full w-full object-cover transition-transform duration-700 hover:scale-105"
             />
@@ -134,7 +134,7 @@ function About() {
                     <FiChevronDown className="text-slate-400" size={18} />
                   )}
                 </button>
-                
+
                 {isOpen && (
                   <div className="px-6 pb-5 pt-1 text-sm text-slate-500 border-t border-slate-50 leading-relaxed animate-fade-in">
                     {faq.answer}

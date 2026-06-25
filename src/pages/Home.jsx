@@ -29,7 +29,7 @@ function Home() {
     <main className="pb-16 bg-slate-50/50">
       {/* Hero Banner with Search Bar */}
       <Hero
-        backgroundImage="/Images/hero.png"
+        backgroundImage="/Images/hero.webp"
         title={
           <span>
             Explore the World <br />
