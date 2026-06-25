@@ -70,15 +70,16 @@ This compiles the application and generates optimized static assets inside the `
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile Menu Drawer |
+| Desktop View | Mobile Homepage View |
 | :---: | :---: |
-| *[Add Screenshot]* | *[Add Screenshot]* |
+| ![Desktop View](./desktop-homepage-view.jpeg) | ![Mobile View](./mobile-homepage-view.jpeg) |
 
 ---
 
 ## ✍️ Author
 
-- **Name**: [Your Name]
-- **Portfolio**: [Your Portfolio Link]
-- **GitHub**: [@YourGitHub]
+- **Name**: Ammar Afzal
+- **Portfolio**: [ammarafzal.vercel.app](https://ammarafzal.vercel.app)
+- **GitHub**: [@iammarafzal](https://github.com/iammarafzal)
+- **Repository**: [github.com/iammarafzal/react-travel-agency-webiste](https://github.com/iammarafzal/react-travel-agency-webiste.git)
 - **Branding**: Traviora - Unforgettable Travel Adventures.
